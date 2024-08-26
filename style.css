@@ -1,0 +1,31 @@
+
+body {
+    background-color: #f0f0f0;
+    font-size: 20px;
+}
+header {
+    background-color: #0000ff;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+}
+main {
+    background-color: #ffffff;
+    margin: 20px;
+}
+footer {
+    background-color: #cccccc;
+    text-align: center;
+}
+h1 {
+    color: #0000ff;
+    font-size: 24px;
+}
+p {
+    margin: 10px 0;
+    color: #333333;
+}
+ol li {
+    margin: 5px 0;
+    color: #00ff00;
+}
